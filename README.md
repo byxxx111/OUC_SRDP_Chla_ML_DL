@@ -15,5 +15,5 @@ A repository for the program 'OUC_SRDP' in Chl-a prediction with Machine Learnin
 ](https://www.zotero.org/groups/5612490/srdp_chla/items/AGSL4B29/item-details)
 
 - 24/8/19
-  - 邀请了Donglanqingming
+  - 邀请了@Donglanqingming
       - [搞定了Zotero](www.zotero.org)

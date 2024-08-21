@@ -4,6 +4,8 @@
 
 A repository for the program 'OUC_SRDP' in Chl-a prediction with Machine Learning and Deep Learning.
 
+利用机器学习和深度学习进行 Chl-a 预测的 "OUC_SRDP "程序资源库。
+
 ---
 
 - 24/8/13 添加README文件
@@ -15,5 +17,5 @@ A repository for the program 'OUC_SRDP' in Chl-a prediction with Machine Learnin
 ](https://www.zotero.org/groups/5612490/srdp_chla/items/AGSL4B29/item-details)
 
 - 24/8/19
-  - 邀请了@Donglanqingming
+  - 邀请了@_Donglanqingming_
       - [搞定了Zotero](www.zotero.org)

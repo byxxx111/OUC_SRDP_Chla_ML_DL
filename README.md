@@ -19,3 +19,5 @@ A repository for the program 'OUC_SRDP' in Chl-a prediction with Machine Learnin
 - 24/8/19
   - 邀请了@_Donglanqingming_
       - [搞定了Zotero](www.zotero.org)
+- 24/10/29
+- cy joined
